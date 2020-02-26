@@ -1,0 +1,2 @@
+https://ftp.mozilla.org/pub/firefox/releases/69.0/
+https://www.chromedownloads.net/chrome64win/
