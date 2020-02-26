@@ -1,2 +1,17 @@
 https://ftp.mozilla.org/pub/firefox/releases/69.0/
+http://ftp.mozilla.org/pub/firefox/releases/
 https://www.chromedownloads.net/chrome64win/
+
+Chrome有以下版本：
+金丝雀（Canary）
+开发版（Dev）
+测试版（Beta）
+正式版（Stable）
+其中版本号最高的为金丝雀
+Chrome每个版本一般会经过以下几个流程：
+新功能先在Chromium出现
+然后到金丝雀版（未验证bug）
+接着到dev版（大问题已经验证）
+接着beta（小问题已经验证）
+都没问题了，就到了稳定版
+总体来说，正式版最为稳定
